@@ -1,0 +1,38 @@
+{
+  "name": "evolution-poker-solver",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.13.5",
+    "@types/jest": "^26.0.22",
+    "@types/lodash": "^4.14.190",
+    "@types/node": "^18.11.9",
+    "@typescript-eslint/eslint-plugin": "^5.44.0",
+    "@typescript-eslint/parser": "^5.44.0",
+    "eslint": "^8.28.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "jest": "^25.5.4",
+    "prettier": "2.8.0",
+    "ts-jest": "^25.5.1",
+    "ts-loader": "^7.0.5",
+    "tsc-alias": "^1.7.1",
+    "typescript": "^3.8.3"
+  },
+  "jest": {
+    "moduleFileExtensions": [
+      "js",
+      "ts"
+    ],
+    "testRegex": ".spec.ts$",
+    "transform": {
+      "^.+\\.ts$": "ts-jest"
+    }
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}

@@ -1,0 +1,19 @@
+{
+	"compilerOptions": {
+		/* Basic Options */
+		// "incremental": true,                   /* Enable incremental compilation */
+		"target": "es6",
+		"module": "commonjs",
+		"sourceMap": true,
+		"strict": true,
+		"noImplicitAny": false,
+		"noUnusedLocals": true,
+		"noUnusedParameters": true,
+		"moduleResolution": "node",
+		"esModuleInterop": true,
+		"emitDecoratorMetadata": true,
+		"experimentalDecorators": true,
+		"outDir": "./out",
+	},
+	"exclude": ["node_modules"]
+}
