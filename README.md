@@ -1,5 +1,10 @@
 # Poker Hand Strength Evaluator
 
+**Wrote it to land a spot for this: https://careers.evolution.com/engineering-scala-bootcamp/
+
+Indeed landed a spot, but in the end too much was happening at the time and I have given up on pursuing the project.  The code here is probably fairly messy (and unfinished), but writing it was fun and challenging, leaving it in my "portfolio" for now as I don't have any other mention worthy public repos to show off ;<
+**_
+
 This has taken me a lot more time than expected and unfortunately I should have waited little longer before starting to work on this exercise because this week is unusually busy and I really need to shift my focus towards other stuff at this point and submit the program as is.
 
 So far I've only managed to deliver a working solution for FiveCardDraw and started working towards TexasHoldem.  I believe I had TexasHoldem figured out, at least to the working degree - I meant to iterate through all cards to create all possible sets, then go through each and compare them with the previous one to find the best solution, together with some short circuits to skip some of the logic.  I don't think it would be very hard but the amount of mental workload I'd have to deliver with my current knowledge of writing more complex algorithms is just too much for my current schedule :/
